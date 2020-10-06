@@ -55,7 +55,6 @@ set listchars=tab:▸\ ,eol:¬
 " Auto-save on lost focus
 au FocusLost * :wa
 
-set t_Co=256            " 256 color support
 set bg=dark             " Dark background
 
 " Enable syntax highlighting
