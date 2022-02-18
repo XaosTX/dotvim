@@ -3,8 +3,6 @@ filetype plugin indent on
 source ~/.vim/vimrc-common
 set number
 set cursorline
-colorscheme basic-rk
+colorscheme vivid-rk
 "let base16colorspace=256  " Access colors present in 256 colorspace
-"colorscheme base16-isotope
-"colorscheme vividchalk
 "source ~/.vim/autoload/colorpicker.vim

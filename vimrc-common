@@ -94,7 +94,7 @@ let g:syntastic_twig_checkers=['twiglint']
 let g:syntastic_enable_highlighting=1
 let g:syntastic_echo_current_error=1
 
-" colorscheme mango
+" colorscheme vivid-rk
 set hidden
 
 " GVIM- (here instead of .gvimrc)
