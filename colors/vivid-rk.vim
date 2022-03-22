@@ -124,7 +124,7 @@ call s:hibg("VisualNOS" ,"#444444","DarkBlue",81)
 call s:hibg("MatchParen","#1100AA","DarkBlue",18)
 highlight WarningMsg    guifg=Red ctermfg=Red
 highlight Error         ctermbg=DarkRed
-highlight SpellBad      ctermbg=DarkRed ctermfg=Black
+highlight SpellBad      ctermfg=Red ctermbg=Black
 " FIXME: Comments
 highlight SpellRare     ctermbg=DarkMagenta
 highlight SpellCap      ctermbg=DarkBlue
