@@ -6,6 +6,18 @@ set shiftwidth=2        " Shift-width 2
 set softtabstop=2       " Soft Tab Stop 2
 set expandtab           " Expand tabs to spaces
 
+set clipboard=unnamedplus
+
+set splitbelow
+set splitright
+
+" Enable folding
+set foldmethod=indent
+set foldlevel=99
+
+" Enable folding with the spacebar
+noremap <space> za
+
 set encoding=utf-8
 set scrolloff=3
 set autoindent
